@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
+
+#back {
+    background-color: tomato;
+    width: 700px;
+    height: 400px;
+    border-radius: 50px;
+    margin-top: 8%;
+}
+
+button {
+    width: 100px;
+    font-size: large;
+    font-weight: bolder;
+    color: gold;
+    background-color: green;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+button:active {
+    background-color: red;
+}
+
+p {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 50px;
+}
